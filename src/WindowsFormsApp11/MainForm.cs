@@ -11,12 +11,12 @@ using System.IO;
 
 namespace WindowsFormsApp11
 {
-    public partial class Form1 : Form
+    public partial class MainForm : System.Windows.Forms.Form
     {
         private static string ConfigPath = "Default.conf";
         private FileInfo ConfigFile = new FileInfo(ConfigPath);
 
-        public Form1()
+        public MainForm()
         {
             InitializeComponent();
             if (!File.Exists(ConfigPath))

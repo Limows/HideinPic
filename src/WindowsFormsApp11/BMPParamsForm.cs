@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp11
 {
-    public partial class BMPParamsForm : Form
+    public partial class BMPParamsForm : System.Windows.Forms.Form
     {
         public BMPParamsForm()
         {

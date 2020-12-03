@@ -10,12 +10,12 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp11
 {
-    public partial class ContainerMasterForm : Form
+    public partial class ContainerMasterForm : System.Windows.Forms.Form
     {
-        Form1 Form;
+        MainForm Form;
         bool IsOkClose = false;
 
-        public ContainerMasterForm(Form1 RefForm)
+        public ContainerMasterForm(MainForm RefForm)
         {
             InitializeComponent();
             ContainerTextBox.Text = Parameters.ContainerData;

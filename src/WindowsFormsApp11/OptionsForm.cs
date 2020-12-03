@@ -10,12 +10,12 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp11
 {
-    public partial class OptionsForm : Form
+    public partial class OptionsForm : System.Windows.Forms.Form
     {
-        Form1 Form;
+        MainForm Form;
         bool IsLoaded = false;
 
-        public OptionsForm(Form1 RefForm)
+        public OptionsForm(MainForm RefForm)
         {
             InitializeComponent();
             EncryptCheckBox.Checked = Parameters.IsEncryptCheckBoxChecked;

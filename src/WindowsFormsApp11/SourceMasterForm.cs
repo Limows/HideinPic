@@ -10,12 +10,12 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp11
 {
-    public partial class SourceMasterForm : Form
+    public partial class SourceMasterForm : System.Windows.Forms.Form
     {
-        Form1 Form;
+        MainForm Form;
         bool IsOkClose = false;
 
-        public SourceMasterForm(Form1 RefForm)
+        public SourceMasterForm(MainForm RefForm)
         {
             InitializeComponent();
             if (Parameters.Source == "File") FileRadioButton.Checked = true;

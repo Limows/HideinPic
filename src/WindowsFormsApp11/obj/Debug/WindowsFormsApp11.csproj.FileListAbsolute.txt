@@ -50,3 +50,21 @@ C:\Users\Limows\Desktop\HideinPic\src\WindowsFormsApp11\obj\Debug\WindowsFormsAp
 C:\Users\Limows\Desktop\HideinPic\src\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.pdb
 C:\Users\Limows\Desktop\HideinPic\src\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.BMPParamsForm.resources
 C:\Users\Limows\Desktop\HideinPic\src\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csprojAssemblyReference.cache
+C:\My Documents\GitHub\HideinPic\src\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.exe.config
+C:\My Documents\GitHub\HideinPic\src\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.exe
+C:\My Documents\GitHub\HideinPic\src\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.pdb
+C:\My Documents\GitHub\HideinPic\src\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csprojAssemblyReference.cache
+C:\My Documents\GitHub\HideinPic\src\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.AboutForm.resources
+C:\My Documents\GitHub\HideinPic\src\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.BMPParamsForm.resources
+C:\My Documents\GitHub\HideinPic\src\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.ContainerMasterForm.resources
+C:\My Documents\GitHub\HideinPic\src\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.DialogMasterForm.resources
+C:\My Documents\GitHub\HideinPic\src\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.EncryptMasterForm.resources
+C:\My Documents\GitHub\HideinPic\src\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.OptionsForm.resources
+C:\My Documents\GitHub\HideinPic\src\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Properties.Resources.resources
+C:\My Documents\GitHub\HideinPic\src\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.SettingsForm.resources
+C:\My Documents\GitHub\HideinPic\src\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.SourceMasterForm.resources
+C:\My Documents\GitHub\HideinPic\src\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csproj.GenerateResource.cache
+C:\My Documents\GitHub\HideinPic\src\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csproj.CoreCompileInputs.cache
+C:\My Documents\GitHub\HideinPic\src\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.exe
+C:\My Documents\GitHub\HideinPic\src\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.pdb
+C:\My Documents\GitHub\HideinPic\src\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.MainForm.resources

@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp11
 {
-    public partial class SettingsForm : Form
+    public partial class SettingsForm : System.Windows.Forms.Form
     {
         public SettingsForm()
         {

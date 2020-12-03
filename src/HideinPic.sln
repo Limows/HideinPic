@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2019
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp11", "WindowsFormsApp11\WindowsFormsApp11.csproj", "{C7C8D08D-3913-42E5-B4EE-1E1FB781063D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HideinPic", "WindowsFormsApp11\HideinPic.csproj", "{C7C8D08D-3913-42E5-B4EE-1E1FB781063D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

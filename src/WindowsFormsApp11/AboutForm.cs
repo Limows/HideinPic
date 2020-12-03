@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp11
 {
-    public partial class AboutForm : Form
+    public partial class AboutForm : System.Windows.Forms.Form
     {
         public AboutForm()
         {

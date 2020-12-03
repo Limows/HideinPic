@@ -10,12 +10,12 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp11
 {
-    public partial class DialogMasterForm : Form
+    public partial class DialogMasterForm : System.Windows.Forms.Form
     {
-        Form1 Form;
+        MainForm Form;
         bool IsOkClose = false;
 
-        public DialogMasterForm(Form1 RefForm)
+        public DialogMasterForm(MainForm RefForm)
         {   
             InitializeComponent();
             Form = RefForm;

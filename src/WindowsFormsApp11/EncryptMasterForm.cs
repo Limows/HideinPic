@@ -10,12 +10,12 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp11
 {
-    public partial class EncryptMasterForm : Form
+    public partial class EncryptMasterForm : System.Windows.Forms.Form
     {
-        Form1 Form;
+        MainForm Form;
         bool IsOkClose = false;
 
-        public EncryptMasterForm(Form1 RefForm)
+        public EncryptMasterForm(MainForm RefForm)
         {
             InitializeComponent();
             EncryptCheckBox.Checked = Parameters.IsEncryptCheckBoxChecked;

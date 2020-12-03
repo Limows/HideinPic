@@ -1,6 +1,6 @@
 ﻿namespace WindowsFormsApp11
 {
-    partial class Form1
+    partial class MainForm
     {
         /// <summary>
         /// Обязательная переменная конструктора.
@@ -438,7 +438,7 @@
             this.SourceTextBox2.TabIndex = 22;
             this.SourceTextBox2.TextChanged += new System.EventHandler(this.SourceTextBox2_TextChanged);
             // 
-            // Form1
+            // Form
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -451,7 +451,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MainMenuStrip = this.menuStrip1;
             this.MaximizeBox = false;
-            this.Name = "Form1";
+            this.Name = "Form";
             this.Text = "HideinPic";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.Shown += new System.EventHandler(this.Form1_Shown);
